@@ -1,0 +1,138 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+		margin: 3px;
+}
+.menu {
+	height: 80px;
+	padding: 10px 50px;
+	background: #ffffff;
+}
+.menu-l{
+	float: left;
+	font-size:20px;
+	font-weight: 800;
+	margin-top: 35px; 
+}
+.nav{
+	margin: 28px auto 0px auto;
+	max-width: 500px;
+}
+.button{
+border: 1px solid #ddd433;
+color: 	#cbc000;
+font-size: 20px;
+padding: 5px 20px;
+border-radius: 10px;
+background: #ffffff;
+    box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.35);
+float: left;
+margin: 0px 5px;
+text-decoration: none;
+
+}
+img{
+	float: right;
+	width: 150px;
+	height:100%;
+}
+.content1{
+
+	height: 600px;
+	background-image: url("img/car1.jpg");
+	background-position: 50% 65%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 1px;
+}
+.block1{
+	max-width: 400px;
+	background: rgba(232,232,232,0.4);
+	border: 2px solid 	#ddd433;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 5px;
+	margin-top: 50px;
+	margin-left: 3%;
+	padding: 6px;
+}
+.block1-h3{
+	font-size: 30px;
+    margin-bottom: 10px;
+}
+.block1-p{
+	font-size: 25px;
+	text-align: center;
+    margin-bottom: 30px;
+}
+.color1{
+height: 80px;
+background: #008c45 ;
+}
+.color2{
+height: 80px;
+background: #edf2ed;
+}
+.color3{
+	height: 80px;
+background: #cd212a;
+}
+.content2{
+	height: 600px;
+	background-image: url("img/car2.jpg");
+	background-position: 100% 100%;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 1px;
+}
+.block{
+	width: 180px;
+	height: 350px;
+background: rgba(232,232,232,0.8);
+border-radius: 20px;
+text-align: center;
+padding: 20px;
+float: left;
+margin: 0px 25px;
+
+}
+.button2{
+	color: 	white;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 8px;
+	background: #ddd433;
+	box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+	text-decoration: none;
+	margin: 0px auto;
+}
+.wrap{
+	margin: -300px auto;
+	max-width: 1080px;
+}
+.block2{
+
+	background: rgba(244, 247, 209, 0.5);
+height: 170px;
+width: 190px;
+margin-top: 550px;
+margin-left: 3%;
+border-radius: 100%;
+padding: 5px;
+
+}
+.block2-r{
+	padding: 40% 0px 0px 20px;
+}
+.bottom{
+	background: black;
+	height: 100px;
+	color: rgb(192,192,192);
+	padding-top: 20px;
+}
+.bottom-r{
+	float: right;
+}
